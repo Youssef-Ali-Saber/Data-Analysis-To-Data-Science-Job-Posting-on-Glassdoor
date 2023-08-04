@@ -27,7 +27,7 @@ patterns, and key factors influencing Data Science job postings, including job t
 
 <h2>(Importing & Cleaning & Transformation & Exploration) Data using Jupter Notebook (Python) </h2>
 
-![image](https://github.com/Youssef-Ali-Saber/My-First-Project-in-Data-Analysis/blob/e4453ac42ed9892e71271ca43bf6561ddd4f2b0a/screencapture-localhost-8888-notebooks-Project1-Data-Science-Job-Posting-on-Glassdoor-ipynb-2023-08-05-00_41_56.png)
+![image](https://github.com/Youssef-Ali-Saber/My-First-Project-in-Data-Analysis/blob/c1ec0d01f57a40cbf192a7fb44ed9bb1d8dc0097/Project1(Data%20Science%20Job%20Posting%20on%20Glassdoor).png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@ patterns, and key factors influencing Data Science job postings, including job t
     <h4> Interactive dashboard </h4>   
 
     
-  ![image](https://github.com/Youssef-Ali-Saber/My-First-Project-in-Data-Analysis/blob/27082b81d6144fe51cc3d6de7544f9573528b64b/Screenshot%202023-08-04%20213812.png)
+  ![image](https://github.com/Youssef-Ali-Saber/My-First-Project-in-Data-Analysis/blob/c1ec0d01f57a40cbf192a7fb44ed9bb1d8dc0097/Dashboard%20for%20Project1(Data%20Science%20Job%20Posting%20on%20Glassdoor).png)
 
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------

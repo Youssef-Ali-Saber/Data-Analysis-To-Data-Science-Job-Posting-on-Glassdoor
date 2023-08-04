@@ -26,7 +26,7 @@ patterns, and key factors influencing Data Science job postings, including job t
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h2>Visualization using Power Bi</h2>
-   - Interactive dashboard for 
+   - Interactive dashboard for                                                                                                                 
   ![image](https://github.com/Youssef-Ali-Saber/My-First-Project-in-Data-Analysis/blob/27082b81d6144fe51cc3d6de7544f9573528b64b/Screenshot%202023-08-04%20213812.png)
 
   
@@ -47,3 +47,6 @@ could provide further insights. Furthermore, the project focused on a specific p
 <h2>References</h2>
  
    https://www.kaggle.com/
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------

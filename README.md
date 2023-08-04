@@ -49,12 +49,6 @@ decisions and organizations to better understand the competitive landscape in th
 
 It is important to note that this project has certain limitations. The analysis was based on the available data from Glassdoor, and additional data sources
 could provide further insights. Furthermore, the project focused on a specific platform, and the findings may not be representative of the entire job market.
- 
- -----------------------------------------------------------------------------------------------------------------------------------------------------
- 
-<h2>References</h2>
- 
-   https://www.kaggle.com/
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------------------

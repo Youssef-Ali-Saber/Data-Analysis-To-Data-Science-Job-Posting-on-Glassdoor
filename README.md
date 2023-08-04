@@ -27,7 +27,7 @@ patterns, and key factors influencing Data Science job postings, including job t
 
 <h2>Visualization</h2>
    
-  ![image](Screenshot 2023-08-04 213812.png)
+  ![image](https://github.com/Youssef-Ali-Saber/My-First-Project-in-Data-Analysis/blob/27082b81d6144fe51cc3d6de7544f9573528b64b/Screenshot%202023-08-04%20213812.png)
 
   -------------------------------------------------------------------------------------------------------------------------------
   

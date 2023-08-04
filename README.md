@@ -25,6 +25,12 @@ patterns, and key factors influencing Data Science job postings, including job t
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
+<h2>(Importing & Cleaning & Transformation & Exploration) Data using Jupter Notebook (Python) </h2>
+
+![image](https://github.com/Youssef-Ali-Saber/My-First-Project-in-Data-Analysis/blob/e4453ac42ed9892e71271ca43bf6561ddd4f2b0a/screencapture-localhost-8888-notebooks-Project1-Data-Science-Job-Posting-on-Glassdoor-ipynb-2023-08-05-00_41_56.png)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
 <h2>Visualization using Power Bi</h2>
     <h4> Interactive dashboard </h4>   
 

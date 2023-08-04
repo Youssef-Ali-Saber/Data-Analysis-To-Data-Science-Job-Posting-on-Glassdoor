@@ -29,6 +29,21 @@ patterns, and key factors influencing Data Science job postings, including job t
    
   ![image](https://github.com/Youssef-Ali-Saber/My-First-Project-in-Data-Analysis/blob/27082b81d6144fe51cc3d6de7544f9573528b64b/Screenshot%202023-08-04%20213812.png)
 
-  -------------------------------------------------------------------------------------------------------------------------------
   
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
+ 
+<h2>conclusion</h2>
+
+In conclusion, the project successfully analyzed Data Science job postings on Glassdoor, providing valuable insights and recommendations for both job 
+seekers and employers. The findings shed light on the current job market trends, skill requirements, and salary ranges, enabling individuals to make informed 
+decisions and organizations to better understand the competitive landscape in the Data Science domain.
+
+It is important to note that this project has certain limitations. The analysis was based on the available data from Glassdoor, and additional data sources
+could provide further insights. Furthermore, the project focused on a specific platform, and the findings may not be representative of the entire job market.
+ 
+ -----------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+<h2>References</h2>
+ 
+   https://www.kaggle.com/

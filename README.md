@@ -27,7 +27,7 @@ patterns, and key factors influencing Data Science job postings, including job t
 
 <h2>Visualization</h2>
    
-  ![Alt text]("D:\WORK\Screenshot 2023-08-04 213812.png"?raw=true "Title")
+  ![Alt text](D:\WORK\Screenshot 2023-08-04 213812.png?raw=true "Title")
 
   -------------------------------------------------------------------------------------------------------------------------------
   

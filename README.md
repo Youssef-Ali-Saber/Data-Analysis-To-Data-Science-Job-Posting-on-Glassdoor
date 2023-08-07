@@ -25,17 +25,9 @@ patterns, and key factors influencing Data Science job postings, including job t
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h2>Data (Importing & Cleaning & Transformation & Exploration) using Python </h2>
+<h2>Data (Cleaning & Transformation & Exploration) using Python </h2>
 
 ![image](https://github.com/Youssef-Ali-Saber/My-First-Project-in-Data-Analysis/blob/c1ec0d01f57a40cbf192a7fb44ed9bb1d8dc0097/Project1(Data%20Science%20Job%20Posting%20on%20Glassdoor).png)
-
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<h2>Visualization using Power Bi</h2>
-    <h4> Interactive dashboard </h4>   
-
-    
-  ![image](https://github.com/Youssef-Ali-Saber/My-First-Project-in-Data-Analysis/blob/c1ec0d01f57a40cbf192a7fb44ed9bb1d8dc0097/Dashboard%20for%20Project1(Data%20Science%20Job%20Posting%20on%20Glassdoor).png)
 
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------
